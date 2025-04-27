@@ -1,8 +1,13 @@
 **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 **
+
 I think maintainability and readability go hand-in-hand and are acheived through using sensible naming schemes. Partly so other people can collaborate with that code but also for my own benefit of remembering what that particular function did when I look back at it several weeks later. Additionally, comments for any particularly important or possibly confusing blocks of logic are valuable when you look back at something later and don't have to track the data flowing through the whole program to understand what the code is doing. In particular, the CRUD module we built was very basic but every database begins with those simple operations so it's a great jumping off point and reference to use in future work.
+
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 **
+
 It's always important to break problems into their simplest components because you can only write code to accomplish one objective at a time so by breaking it down you build yourself a roadmap of what needs to be accomplished. In this course that was important but moreso than previously I saw those components start to work with one another as the earliest assignments consisted of just populating the database, then building out CRUD operations, and finally putting it all together into an actual product.
+
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
 Computer scientists are just solving problems like any other occupation is. It's just that we do so through the medium of software so having the skills to implement solutions into programs is critical, but at some point the career comes down more to 'how are you solving a real problem' than how well you write code. Both are important aspects and you can't have one without the other in this field.
